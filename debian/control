@@ -1,0 +1,19 @@
+Source: carta-ng
+Section: metapackages
+Priority: optional
+Maintainer: Adrianna Pińska <adrianna.pinska@gmail.com>
+Build-Depends: debhelper (>= 12)
+Standards-Version: 4.3.0
+Homepage: https://github.com/CARTAvis/carta
+Vcs-Git: https://github.com/idia-astro/carta-ng-deb.git
+Vcs-Browser: https://github.com/idia-astro/carta-ng-deb
+
+Package: carta-ng
+Architecture: all
+Depends: carta-backend-ng (>= 2021.2.19),
+         carta-frontend-ng (>= 2021.2.9),
+         ${misc:Depends}
+Description: CARTA - Cube Analysis and Rendering Tool for Astronomy
+ CARTA is a next generation image visualization and analysis tool designed for ALMA, VLA, and SKA pathfinders.
+ .
+ This metapackage installs the development versions of the backend and frontend components.
