@@ -1,5 +1,5 @@
-carta-ng (2021.2.19.1) focal; urgency=medium
+carta-beta (2021.2.25~focal1) focal; urgency=medium
 
-  * Initial release.
+  * Initial release of renamed package.
 
- -- Adrianna Pińska <adrianna.pinska@gmail.com>  Fri, 19 Feb 2021 20:44:51 +0200
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Thu, 25 Feb 2021 16:01:18 +0200
