@@ -10,8 +10,8 @@ Vcs-Browser: https://github.com/idia-astro/carta-beta-deb
 
 Package: carta-beta
 Architecture: all
-Depends: carta-backend-beta (>= 2021.3.3),
-         carta-frontend-beta (>= 2021.2.25+fixed1-2~focal1),
+Depends: carta-backend-beta (>= 2021.3.5),
+         carta-frontend-beta (>= 2021.3.5),
          ${misc:Depends}
 Description: CARTA - Cube Analysis and Rendering Tool for Astronomy
  CARTA is a next generation image visualization and analysis tool designed for ALMA, VLA, and SKA pathfinders.
