@@ -1,3 +1,15 @@
+carta-beta (2.0+2021.3.5~bionic2) bionic; urgency=medium
+
+  * Fixed debhelper dependency.
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Fri, 19 Mar 2021 15:32:57 +0200
+
+carta-beta (2.0+2021.3.5~bionic1) bionic; urgency=medium
+
+  * Backport to Bionic.
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Fri, 19 Mar 2021 15:14:20 +0200
+
 carta-beta (2.0+2021.3.5~focal1) focal; urgency=medium
 
   * Rebuild for new PPA with revised version numbering.
