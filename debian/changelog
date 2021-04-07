@@ -1,3 +1,9 @@
+carta-beta (2.0+2021.4.6~bionic1) bionic; urgency=medium
+
+  * Version bump for updated backend and frontend. Backport to Bionic.
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Tue, 06 Apr 2021 15:12:09 +0200
+
 carta-beta (2.0+2021.3.5~bionic2) bionic; urgency=medium
 
   * Fixed debhelper dependency.
