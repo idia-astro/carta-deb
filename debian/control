@@ -10,8 +10,8 @@ Vcs-Browser: https://github.com/idia-astro/carta-deb
 
 Package: carta
 Architecture: all
-Depends: carta-backend (>= 2.0.0),
-         carta-frontend (>= 2.0.0),
+Depends: carta-backend (>= 3.0.0),
+         carta-frontend (>= 3.0.0),
          ${misc:Depends}
 Conflicts: carta-beta
 Description: CARTA - Cube Analysis and Rendering Tool for Astronomy
