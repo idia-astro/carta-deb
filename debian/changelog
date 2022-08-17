@@ -1,3 +1,9 @@
+carta (3.0.0-1~focal1) focal; urgency=medium
+
+  * Bumped backend and frontend to 3.0.0.
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Wed, 17 Aug 2022 17:29:25 +0200
+
 carta (2.0.0-1~focal2) focal; urgency=medium
 
   * Add an explicit conflict between the carta and carta-beta metapackages to 
