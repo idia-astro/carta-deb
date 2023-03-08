@@ -10,7 +10,7 @@ Vcs-Browser: https://github.com/idia-astro/carta-deb
 
 Package: carta
 Architecture: all
-Depends: carta-backend (>= 3.0.0),
+Depends: carta-backend (>= 3.0.1),
          carta-frontend (>= 3.0.0),
          ${misc:Depends}
 Conflicts: carta-beta
