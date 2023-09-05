@@ -1,4 +1,4 @@
-carta (4.0.1-1~focal1) focal; urgency=medium
+carta (4.0.0-1~focal1) focal; urgency=medium
 
   * Bumped backend and frontend to 4.0.0.
 
