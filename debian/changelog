@@ -1,3 +1,9 @@
+carta (4.1.0-1~focal1) focal; urgency=medium
+
+  * Bumped backend and frontend to 4.1.0.
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Thu, 18 Jan 2024 18:39:22 +0200
+
 carta (4.0.0-1~focal1) focal; urgency=medium
 
   * Bumped backend and frontend to 4.0.0.
