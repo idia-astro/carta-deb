@@ -1,3 +1,9 @@
+carta (5.0.3-1~noble1) noble; urgency=medium
+
+  * Bumped backend and frontend to 5.0.3.
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Thu, 31 Jul 2025 12:09:46 +0200
+
 carta (5.0.0-1~noble1) noble; urgency=medium
 
   * Bumped backend and frontend to 5.0.0.
