@@ -1,3 +1,10 @@
+carta (5.1.0~jammy1) jammy; urgency=medium
+
+  * Bumped backend and frontend to 5.1.0.
+  * Fixed the package version of this metapackage to be Debian native.
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Sat, 17 Jan 2026 22:51:34 +0200
+
 carta (5.0.3-1~jammy1) jammy; urgency=medium
 
   * Bumped backend and frontend to 5.0.3.
