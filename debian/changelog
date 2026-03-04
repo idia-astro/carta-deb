@@ -1,9 +1,15 @@
+carta (6.0.0~beta.1~noble1) noble; urgency=medium
+
+  * Bumped backend and frontend to 6.0.0~beta.1.
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Thu, 05 Mar 2026 00:59:14 +0200
+
 carta (5.1.0~noble1) noble; urgency=medium
 
   * Bumped backend and frontend to 5.1.0.
   * Fixed the package version of this metapackage to be Debian native.
 
- -- Adrianna Pińska <adrianna.pinska@gmail.com>  Sat, 17 Jan 2026 22:58:11 +0200
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Sat, 17 Jan 2026 22:51:34 +0200
 
 carta (5.0.3-1~noble1) noble; urgency=medium
 
